@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0187/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0187/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金籙十迴度人午朝開收儀
+  date: '2015-08-29 00:12:22.926430'
+  source:
+    repository: kanripo
+    path: KR5b0187
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0187_000-ZTDZ.yaml, hash: 'sha256:f1555941bb34f9d9ac5bdb492fe67f4ff0b358117335c3333097bb13b9929ba6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0187_000-ZTDZ.markers.yaml, hash: 'sha256:088b3affdaa22b55140760792041e7969ae79eef9dda639a54fc75c3e21a2c6a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0187_SJB_000-090115c
+    span:
+    - body
+    - 0
+    - 2557
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:4bbf6a8100143142cff46e4402c00ab9790668f3366b8e0c05e51fa1df9cc238
